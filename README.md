@@ -1,5 +1,5 @@
 <div align=center bold>
-<strong> Olá eu sou o Kaio Galvão 👋</strong>
+<strong> Olá eu sou Kaio Galvão 👋</strong>
 </div>
 <div style="display: inline_block" align=center><br>
  <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
